@@ -1,4 +1,4 @@
-# DDoS and NS2 Simulation: Intro to Netwrok Simulation
+# DDoS and NS2 Simulation: Intro to Network Simulation
 
 It consists of basic ns2 programs along with a practical DDoS attack simulation example.
 
@@ -49,12 +49,8 @@ Version 1.0
 
 ## Authors
 
-Anil Sathyan
-## License
+Allapureddy Keerthi 
 
-Free to use, share or modify!! ... Copyleft!!
-
-chmod -R 777 /                 ...  ???????
 
 ## Acknowledgments
 * "nsnam.com"
